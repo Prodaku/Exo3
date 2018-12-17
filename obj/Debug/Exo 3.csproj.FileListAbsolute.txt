@@ -1,0 +1,7 @@
+C:\Users\Dell\Desktop\Premier TP\Exo 3\Exo 3\bin\Debug\Exo 3.exe.config
+C:\Users\Dell\Desktop\Premier TP\Exo 3\Exo 3\bin\Debug\Exo 3.exe
+C:\Users\Dell\Desktop\Premier TP\Exo 3\Exo 3\bin\Debug\Exo 3.pdb
+C:\Users\Dell\Desktop\Premier TP\Exo 3\Exo 3\obj\Debug\Exo 3.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Premier TP\Exo 3\Exo 3\obj\Debug\Exo 3.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Premier TP\Exo 3\Exo 3\obj\Debug\Exo 3.exe
+C:\Users\Dell\Desktop\Premier TP\Exo 3\Exo 3\obj\Debug\Exo 3.pdb
