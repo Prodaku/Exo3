@@ -10,9 +10,19 @@ namespace Exo_3
     {
         static void Main(string[] args)
         {
-            string a = "1";
-            string b = "2";
-            Console.WriteLine("Veuillez renseigner les nombres suivants : " a + " " + b);
+            int a, b;
+
+            Console.WriteLine("Donnez la valeur de A:");
+            a = int.Parse(Console.ReadLine());
+            Console.WriteLine("Donnez la valeur de B:");
+            b = int.Parse(Console.ReadLine());
+
+            a = a + 33;
+            b++;
+
+            int Total = a / b;
+            Console.WriteLine("Voici la division" , +Total);
+            Console.ReadLine();
         }
     }
 }
